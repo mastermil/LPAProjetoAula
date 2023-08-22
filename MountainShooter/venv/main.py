@@ -1,0 +1,3 @@
+
+game = Game()
+game.run()
