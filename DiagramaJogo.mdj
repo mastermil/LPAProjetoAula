@@ -3562,9 +3562,10 @@
 								"$ref": "AAAAAAGJ1/4uke0v63s="
 							},
 							"font": "Arial;13;0",
+							"left": 24,
 							"top": 144,
 							"width": 305,
-							"height": 609,
+							"height": 617,
 							"text": "Menu.py"
 						},
 						{
@@ -3574,10 +3575,10 @@
 								"$ref": "AAAAAAGJ1/4uke0v63s="
 							},
 							"font": "Arial;13;0",
-							"left": 320,
+							"left": 352,
 							"top": 144,
 							"width": 305,
-							"height": 609,
+							"height": 617,
 							"text": "Game.py"
 						},
 						{
@@ -3587,10 +3588,10 @@
 								"$ref": "AAAAAAGJ1/4uke0v63s="
 							},
 							"font": "Arial;13;0",
-							"left": 640,
+							"left": 680,
 							"top": 144,
 							"width": 321,
-							"height": 609,
+							"height": 617,
 							"text": "Level.py"
 						},
 						{
@@ -3668,8 +3669,8 @@
 								"$ref": "AAAAAAGJ1/4uke0v63s="
 							},
 							"font": "Arial;13;0",
-							"left": 344,
-							"top": 184,
+							"left": 368,
+							"top": 208,
 							"width": 272,
 							"height": 121,
 							"text": "__init__()"
@@ -3681,8 +3682,8 @@
 								"$ref": "AAAAAAGJ1/4uke0v63s="
 							},
 							"font": "Arial;13;0",
-							"left": 344,
-							"top": 320,
+							"left": 368,
+							"top": 336,
 							"width": 273,
 							"height": 400,
 							"text": "run()"
@@ -3704,8 +3705,8 @@
 										"$ref": "AAAAAAGJ2AyRWO4LZu4="
 									},
 									"font": "Arial;13;0",
-									"left": 362,
-									"top": 250,
+									"left": 386,
+									"top": 274,
 									"width": 236.5048828125,
 									"height": 13,
 									"text": "windows = pygame.display.setmode(...)",
@@ -3713,8 +3714,8 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 352,
-							"top": 240,
+							"left": 376,
+							"top": 264,
 							"width": 256.5048828125,
 							"height": 46,
 							"nameLabel": {
@@ -3742,8 +3743,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 452,
-									"top": 159,
+									"left": 476,
+									"top": 171,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3761,7 +3762,7 @@
 								"$ref": "AAAAAAGJ2ASG6u3WNQU="
 							},
 							"lineStyle": 2,
-							"points": "438:93;438:240",
+							"points": "462:93;462:264",
 							"nameLabel": {
 								"$ref": "AAAAAAGJ2BC7Ee4qtVQ="
 							}
@@ -3787,8 +3788,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 542,
-									"top": 161,
+									"left": 566,
+									"top": 173,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3806,7 +3807,7 @@
 								"$ref": "AAAAAAGJ2AyRWO4LZu4="
 							},
 							"lineStyle": 2,
-							"points": "557:240;557:96",
+							"points": "581:264;581:96",
 							"nameLabel": {
 								"$ref": "AAAAAAGJ2BSdru4zH88="
 							}
@@ -3828,8 +3829,8 @@
 										"$ref": "AAAAAAGJ2BVNMu476K8="
 									},
 									"font": "Arial;13;0",
-									"left": 436.542236328125,
-									"top": 405,
+									"left": 460.542236328125,
+									"top": 429,
 									"width": 57.08447265625,
 									"height": 26,
 									"text": "O while  é True ?",
@@ -3837,8 +3838,8 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 408,
-							"top": 392,
+							"left": 432,
+							"top": 416,
 							"width": 114.1689453125,
 							"height": 52,
 							"nameLabel": {
